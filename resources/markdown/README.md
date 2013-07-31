@@ -21,16 +21,8 @@ A 6-hour workshop intended to introduce and provide resources for working with H
 <div class="center"> ![Workshop](resources/images/workshop.png) </div>
 
 This workshop is based around a central concept of domain modeling with Haskell.
-It uses a narrative of a physicist attempting to understand how the world works.
-
-# TODO: double check these items {.todo}
 
 ### Note:
 
 If you are attending the workshop, please attempt to have the required items
 from the ['Resources'](#resources) section available for your use.
-
-
-# TODO: Decide on some followup plans {.todo}
-
-# TODO: Don't use underscores in pattern matching early on {.todo}
